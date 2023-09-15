@@ -1,6 +1,6 @@
 # WELCOME TO MY GITHUB PAGE
 ### You can Stay for long. This is your home too.
-![Isaac Rambo Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzLW6sgSHSmNAGi2B0mmHlfbFwNV50I5_qCw&usqp=CAU)
+![Isaac Rambo Banner](https://emeritus.org/wp-content/uploads/2022/11/Featured-data-governance-1.png.webp)
 
 - 👋 Hi, I’m @fantastic-rambo
 - 👀 I’m interested in ...

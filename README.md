@@ -1,6 +1,6 @@
 # WELCOME TO MY GITHUB PAGE
 ### You can Stay for long. This is your home too.
-![Isaac Rambo Banner](https://raw.githubusercontent.com/SilasKati/SilasKati/main/assets/Silas_Kati_Banner.png)
+![Isaac Rambo Banner]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPTAsZ9hLL0nrCioUfVf8lYSARVYrGf92AMkbPs3kWONpBf7Q64dyp4K0ysGUxHhFmaQ&usqp=CAU])
 
 - 👋 Hi, I’m @fantastic-rambo
 - 👀 I’m interested in ...
